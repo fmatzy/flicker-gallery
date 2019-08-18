@@ -1,4 +1,4 @@
-# flickr-viewer
+# flickr-gallery
 
 ## Project setup
 
