@@ -17,7 +17,8 @@ module.exports = {
     "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off",
     "no-undef": "off",
     "no-unused-vars": "off",
-    strict: "off"
+    strict: "off",
+    "prettier/prettier": "warn"
   },
   parser: "vue-eslint-parser",
   parserOptions: {
